@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <WatchPath>G:\MobileHis\MobileHis\FilePool\Card</WatchPath>
+  <BackupPath>I:\DX80\BackUp</BackupPath>
+  <DX80IP></DX80IP>
+  <DX80PORT></DX80PORT>
+  <PrintName>CX-D80 LAN</PrintName>
+</Setting>
